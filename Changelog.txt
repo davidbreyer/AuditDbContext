@@ -1,0 +1,10 @@
+1.0 Orignal Code From Codeplex.com
+
+2.0
+Upgraded to .NET 4.5
+Upgraded to Entity Framework 6.1.3
+Changed Test to used Local SQL Server
+Added Column Source Id to the AuditSourceId to hold the id of the object being changed in the audit
+Updated AuditContext to work with Complex types.
+
+
